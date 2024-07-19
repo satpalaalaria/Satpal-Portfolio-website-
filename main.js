@@ -430,7 +430,7 @@ document.querySelector("#app").innerHTML = `
                 <div>
                     <p class="dark:text-gray-100 font-semibold p-6 text-2xl flex justify-center tracking-tight">Portfolio Developed by © Satpal Aalaria, 2024</p>
                     <p class="dark:text-gray-100 font-semibold pb-20 text-2xl items-center flex justify-center tracking-tight">
-                        <a href="#" class="bg-gray-900  items-center hover:scale-110 transition-transform transform dark:bg-gray-100 text-white dark:text-black flex gap-2 p-3 rounded-md font-medium ml-5">
+                        <a href="https://github.com/satpalaalaria/Satpal-Portfolio-website-" class="bg-gray-900  items-center hover:scale-110 transition-transform transform dark:bg-gray-100 text-white dark:text-black flex gap-2 p-3 rounded-md font-medium ml-5">
                             Source Code
                             <svg
                                 class="fill-white dark:fill-black"
